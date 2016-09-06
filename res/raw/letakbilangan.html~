@@ -1,0 +1,97 @@
+<html>
+<head>
+<style type="text/css">
+	body{
+	  background-image:url("file:///android_asset/bg2.png");
+	  color:blue;
+	  background-position:50% 50%;
+	  background-repeat:repeat;
+	}
+</style>
+</head>
+<body>
+<h2>LETAK BILANGAN PADA GARIS BILANGAN</h2><align = "Justify">
+Tata dan Dio bermain permainan bola di komputer.<br>
+Bola-bola itu bertuliskan bilangan-bilangan yang disusun seperti<br>
+gambar berikut.<br>
+Menentukan Letak Bilangan pada Garis Bilangan<br>
+
+<h4>1. Membilang secara Urut</h4><br>
+		
+
+1 		2		3		4		5		6		7		8		9		10<br><br>
+ 
+Urutan bilangan pada garis bilangan di atas menunjukkan makin ke<br>
+kanan bilangannya makin besar. Bilangan yang terletak di sebelah<br>
+kanan lebih besar daripada bilangan yang terletak di sebelah kiri.<br>
+
+<h4>2. Mengurutkan dan Membandingkan Dua Bilangan</h4><br>
+Setelah kamu belajar letak suatu bilangan pada garis bilangan, maka<br>
+kamu dapat membandingkan dua bilangan dengan bantuan garis
+bilangan.<br>
+
+Contoh:<br>
+
+32 33 34 35 36 37 38 39 40 41<br>
+Pada garis bilangan di atas, arah ke kanan menunjukkan bilangan<br>
+yang makin besar.<br>
+a. 32 kurang dari 33 karena 32 terletak di sebelah kiri 33.<br>
+b. 35 lebih dari 34 karena bilangan 35 terletak di sebelah kanan 34.<br>
+c. 32 kurang dari 33; maka dapat ditulis 32 < 33.<br>
+35 lebih dari 34; maka dapat ditulis 35 > 34.<br>
+< dibaca lebih kecil daripada, artinya kurang dari.<br>
+> dibaca lebih besar daripada, artinya lebih dari.<br>
+
+<h4>3. Menentukan Sebuah Bilangan yang Terletak di antara Dua Bilangan</h4><br>
+
+Ano, Ato, dan Avo adalah anggota tim sepak takraw. Pada suatu<br>
+pertandingan, Ano dan Avo datang lebih awal. Ano dan Avo masing-masing<br>
+memakai kaos dengan nomor punggung 54 dan 56. Ato mendapat<br>
+kaos dengan nomor punggung sebelum Avo dan sesudah Ano. Coba<br>
+kamu cari, berapakah nomor punggung Ato?<br>
+Untuk menentukan sebuah bilangan di antara dua bilangan dapat<br>
+menggunakan garis bilangan.<br>
+Ayo perhatikan garis bilangan berikut!<br>
+
+         53 54	55	56 57 58 59 60 61 62  63<br>
+Bilangan yang terletak di antara  54  dan  56  adalah 55<br>
+Jadi, nomor punggung Ato adalah 55.<br>
+
+<h4>4. Mengurutkan Bilangan dan Menentukan Letaknya pada Garis Bilangan</h4><br>
+Contoh:<br>
+
+39 42 40 45<br>
+46<br>
+43 41 44<br>
+
+
+Bilangan di atas dapat diurutkan dan ditentukan posisinya<br>
+pada garis bilangan seperti berikut:<br>
+
+39 40 41 42 43 44 45  46<br>
+
+<h4>6. Menentukan Pola pada Barisan Bilangan</h4><br>
+Perhatikan deretan bilangan berikut ini!<br>
+1) 1, 2, 3, 4, 5, 6, ...<br>
+2) 1, 3, 5, 7, 9, 11, ....<br>
+3) 0, 2, 4, 6, 8, 10, ....<br>
+Deret-deret bilangan di atas mempunyai pola tertentu. Deretan<br>
+pertama merupakan deretan bilangan-bilangan asli. Deretan kedua<br>
+merupakan deretan bilangan ganjil. Deretak ketiga merupakan deretan<br>
+bilangan genap. Deretan-deretan yang mempunyai pola tertentu disebut<br>
+barisan bilangan.<br>
+Jadi,<br>
+ 
+1) 1, 2, 3, 4, 5, 6, ...<br>
+2) 1, 3, 5, 7, 9, 11, ....<br>
+3) 0, 2, 4, 6, 8, 10, ....<br>
+ 
+disebut barisan bilangan asli<br>
+disebut barisan bilangan ganjil<br>
+disebut barisan bilangan genap<br>
+ 
+Setiap bilangan pada barisan disebut suku barisan.<br>
+</align> 
+</div>
+</body>
+</html> 

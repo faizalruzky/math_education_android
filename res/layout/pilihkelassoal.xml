@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg2"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/soalkelas5"
+        android:layout_width="62dp"
+        android:layout_height="62dp"
+        android:layout_x="130dp"
+        android:layout_y="228dp"
+        android:background="@drawable/selector5"
+        android:text="5" />
+
+    <Button
+        android:id="@+id/soalkelas6"
+        android:layout_width="58dp"
+        android:layout_height="64dp"
+        android:layout_x="210dp"
+        android:layout_y="230dp"
+        android:background="@drawable/selector6"
+        android:text="6" />
+
+    <Button
+        android:id="@+id/soalkelas4"
+        android:layout_width="60dp"
+        android:layout_height="66dp"
+        android:layout_x="46dp"
+        android:layout_y="228dp"
+        android:background="@drawable/selector4"
+        android:text="4" />
+
+    <Button
+        android:id="@+id/soalkelas1"
+        android:layout_width="59dp"
+        android:layout_height="61dp"
+        android:layout_x="54dp"
+        android:layout_y="88dp"
+        android:background="@drawable/selector1"
+        android:text="1" />
+
+    <Button
+        android:id="@+id/soalkelas2"
+        android:layout_width="65dp"
+        android:layout_height="68dp"
+        android:layout_x="135dp"
+        android:layout_y="90dp"
+        android:background="@drawable/selector2"
+        android:text="2" />
+
+    <Button
+        android:id="@+id/soalkelas3"
+        android:layout_width="62dp"
+        android:layout_height="67dp"
+        android:layout_x="217dp"
+        android:layout_y="88dp"
+        android:background="@drawable/selector3"
+        android:text="3" />
+
+</AbsoluteLayout>

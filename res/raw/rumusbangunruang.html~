@@ -1,0 +1,79 @@
+<html>
+<head>
+<style type="text/css">
+	body{
+	  background-image:url("file:///android_asset/bg2.png");
+	  color:blue;
+	  background-position:50% 50%;
+	  background-repeat:repeat;
+	}
+</style>
+
+</head>
+<body> 
+<h2>Rumus Bangun Ruang</h2> <align = "Justify">
+
+<ul>
+	<li><h4>Kubus</h4>
+	Jumlah rusuk = 12<br>
+	Jumlah sisi = 6<br>
+	Jumlah titik sudut = 8<br>
+	Volume = sisi x sisi x sisi<br>
+	Luas Permukaan = 6 x (panjang sisi x lebar sisi)<br><br>
+ 	</li>
+ 	<li><h4>Balok</h4>
+	Jumlah rusuk = 12<br>
+	Jumlah sisi = 6<br>
+	Jumlah titik sudut = 8<br>
+	Volume = p x l x t<br>
+	Luas Permukaan = (2 x (p x l)) + (2 x (l x t))<br><br>
+ 	</li>
+	<li><h4>Kerucut</h4>
+	Jumlah rusuk = 0<br>
+	Jumlah sisi = 2<br>
+	Jumlah titik sudut = 1<br>
+	Volume = 1/3 x (luas alas) x t<br>
+	Luas Permukaan = (22/7 X garis tengah X tinggi)<br><br>
+	</li>
+	<li><h4>Tabung</h4>
+	Jumlah rusuk = 0<br>
+	Jumlah sisi = 3<br>
+	Jumlah titik sudut = 0<br>
+	Volume = (luas alas) x t<br>
+	Luas Permukaan = (2 x luas alas) + (22/7 X garis tengah X tinggi)<br><br>
+	</li>
+	<li><h4>Limas Segi Empat</h4>
+	Jumlah rusuk = 8<br>
+	Jumlah sisi = 5<br>
+	Jumlah titik sudut = 5<br>
+	Volume = 1/3x(luas alas) x t<br>
+	Luas Permukaan = (luas alas) + (4 X luas segi tiga)<br><br>
+	</li>
+	<li><h4>Limas Segitiga</h4>
+	Jumlah rusuk = 6<br>
+	Jumlah sisi = 4<br>
+	Jumlah titik sudut = 4<br>
+	Volume = 1/3x(luas alas) x t<br>
+	Luas Permukaan = (luas alas) + (3 X luas segi tiga)<br><br>
+	</li>
+	<li><h4>Prisma Segitiga</h4>
+	Jumlah rusuk = 9<br>
+	Jumlah sisi = 5<br>
+	Jumlah titik sudut = 6<br>
+	Volume = (luas alas) x t<br>
+	Luas Permukaan = (2 X luas alas) + (sisi a segi tiga X tinggi) + (sisi b segi tiga X tinggi) + (sisi c segi tiga X tinggi)<br><br>
+	</li>
+	<li><h4>Bola</h4>
+	Jumlah rusuk = 0<br>
+	Jumlah sisi = 1<br>
+	Jumlah titik sudut = <br>
+	Volume = 4/3 X 22/7 X r^3 <br>
+	Luas Permukaan = 4 X 22/7 X jari-jari X jari-jari<br><br>
+	</li>
+	<li><h4>22/7 = 3,14</h4>
+	</li>
+ </ul>
+
+</align> 
+</body>
+</html> 

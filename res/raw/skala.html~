@@ -1,0 +1,43 @@
+<html>
+<head>
+<style type="text/css">
+	body{
+	  background-image:url("file:///android_asset/bg2.png");
+	  color:blue;
+	  background-position:50% 50%;
+	  background-repeat:repeat;
+	}
+</style>
+
+</head>
+<body> 
+<h2>Skala</h2> <align = "Justify">
+
+<ul>
+	<li><h4>Rumus </h4>
+	Skala = jarak pada peta / jarak sebenarnya
+	<br>
+ 	</li>
+ 	<li>
+	Jarak pada peta = Skala x jarak sebenarnya
+	<br>
+ 	</li>
+	<li>
+	Jarak sebenarnya = jarak pada peta / sakala <br>
+	</li>
+	<li><h4>Contoh</h4>
+	Panjang halaman rumah Pak Amir 600 cm. Lebarnya 400 cm. Berapakah panjang dan lebar rumah Pak Amir pada peta jika diketahui Skala = 1:100.<br>
+	Jawab :<br>
+	Jarak pada peta = Skala X jarak sebenarnya<br>
+	Panjang pada peta = 1 / 100 X 600<br>
+					  = 600 / 100<br>
+					  = 6 cm.<br>
+	Lebar pada peta = 1/100 X 400<br>
+					= 400 / 100<br>
+					= 4 cm.<br><br>
+	</li>
+ </ul>
+
+</align> 
+</body>
+</html> 

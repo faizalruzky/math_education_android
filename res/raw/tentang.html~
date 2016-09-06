@@ -1,0 +1,46 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="1038.36">
+  <style type="text/css">
+    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: white}
+    p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: white; min-height: 14.0px}
+    p.p5 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color:white}
+    li.li2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: white}
+    li.li5 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: white}
+    span.s1 {text-decoration: underline}
+    span.s2 {color: white}
+    span.s3 {text-decoration: underline ; color: white}
+    ul.ul1 {list-style-type: disc}
+	
+	body{
+	  background-image:url("file:///android_asset/bg2.png");
+	  color:white;
+	  background-position:50% 50%;
+	  background-repeat:repeat;
+	}
+  </style>
+</head>
+<body>
+<h2 style="margin: 0.0px 0.0px 14.0px 0.0px; font: 18.0px Times; color: white"><b>Tentang</b></h2>
+<p class="p2">Math Learn merupakan metode pembelajaran menggunakan media ponsel pintar.</p>
+<p class="p2">Program aplikasi ini yang melingkupi matematika sekolah dasar.</p>
+<p class="p3"><br></p>
+<h4 style="margin: 0.0px 0.0px 15.0px 0.0px; font: 12.0px Times; color: white"><b>Fitur</b></h4>
+<ul class="ul1">
+  <li class="li2">Materi</li>
+  <li class="li2">Latihan Soal</li>
+</ul>
+<h4 style="margin: 0.0px 0.0px 15.0px 0.0px; font: 12.0px Times; color:white"><b>Terima Kasih:</b></h4>
+<ul class="ul1">
+  <li class="li5"><a href="http://www.uinsgd.ac.id//"><span class="s1">Kampus Ku</span></a></li>
+<li class="li5"><a href="http://www.faizal-info.blogspot.com//"><span class="s1">Faizal Ruzky</span></a></li>
+  <li class="li2">Android Developers</li>
+</ul>
+
+</body>
+</html>

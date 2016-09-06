@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      package="mtk.arifandy.com"
+      android:versionCode="1"
+      android:versionName="1.0">
+    <uses-sdk android:minSdkVersion="14"
+           android:targetSdkVersion="17" />
+
+    <application android:icon="@drawable/icon" android:label="@string/app_name">
+        <activity android:name="mtk.kelompok.matematikaActivity"
+                  android:label="@string/app_name"
+                   android:theme="@style/Theme.Sherlock.Light" >>
+        </activity>
+        <activity android:name="mtk.kelompok.splash">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"></action>
+                <category android:name="android.intent.category.LAUNCHER"></category>
+            </intent-filter>
+        </activity>
+        <activity android:name="mtk.kelompok.materikelas4"></activity>
+        <activity android:name="mtk.kelompok.bangundatar"></activity>
+        <activity android:name="mtk.kelompok.bangunruang"></activity>
+        <activity android:name="mtk.kelompok.bilanganpecahan"></activity>
+        <activity android:name="mtk.kelompok.operasibilpecahan"></activity>
+        <activity android:name="mtk.kelompok.satuanukuran"></activity>
+        <activity android:name="mtk.kelompok.rumusbangundatar"></activity>
+        <activity android:name="mtk.kelompok.rumusbangunruang"></activity>
+        <activity android:name="mtk.kelompok.skala"></activity>
+        <activity android:name="mtk.kelompok.pengolahandata"></activity>
+        <activity android:name="mtk.kelompok.tentang"></activity>
+        <activity android:name="mtk.kelompok.bantuan"></activity>
+        <activity android:name="mtk.kelompok.kubus"></activity>
+        <activity android:name="mtk.kelompok.soalkelas4"></activity>
+        <activity android:name="mtk.kelompok.soaldatar"></activity>
+        <activity android:name="mtk.kelompok.bangundatarsoal"></activity>
+        <activity android:name="mtk.kelompok.bangunruangsoal"></activity>
+        <activity android:name="mtk.kelompok.bilanganpecahansoal"></activity>
+        <activity android:name="mtk.kelompok.operasibilpecahansoal"></activity>
+        <activity android:name="mtk.kelompok.satuanukuransoal"></activity>
+        <activity android:name="mtk.kelompok.skalasoal"></activity>
+        <activity android:name="mtk.kelompok.pengolahandatasoal"></activity>
+        <activity android:name="mtk.kelompok.nilai"></activity>
+        <activity android:name="mtk.kelompok.pilihkelas"></activity>
+          <activity android:name="mtk.kelompok.pilihkelassoal"></activity>
+             <activity android:name="mtk.kelompok.bilanganbulat"></activity>
+              <activity android:name="mtk.kelompok.bilanganpecahan5"></activity>
+  <activity android:name="mtk.kelompok.letakbilangan"></activity>
+    <activity android:name="mtk.kelompok.operasipenjumlahandanpengurangan"></activity>
+     <activity android:name="mtk.kelompok.materikelas3"></activity>
+       <activity android:name="mtk.kelompok.materikelas5"></activity>
+        <activity android:name="mtk.kelompok.perkalian"></activity>
+         <activity android:name="mtk.kelompok.materikelas2"></activity>
+                  <activity android:name="mtk.kelompok.materikelas1"></activity>
+                           <activity android:name="mtk.kelompok.bilangancacah"></activity>
+            <activity android:name="mtk.kelompok.soalkelas2"></activity>
+                <activity android:name="mtk.kelompok.SoalActivity"></activity>
+                    <activity android:name="mtk.kelompok.ResultActivity"
+                          android:label="@string/title_activity_result" >
+                          </activity>
+                          
+                     <activity android:name="mtk.kelompok.SoalActivity1"></activity>
+                    <activity android:name="mtk.kelompok.ResultActivity1"
+                          android:label="@string/title_activity_result" >
+                          </activity>
+                          
+                      <activity android:name="mtk.kelompok.SoalActivity4"></activity>
+                    <activity android:name="mtk.kelompok.ResultActivity4"
+                          android:label="@string/title_activity_result" >
+                          </activity>
+                          
+                      <activity android:name="mtk.kelompok.SoalActivity5"></activity>
+                    <activity android:name="mtk.kelompok.ResultActivity5"
+                          android:label="@string/title_activity_result" >
+                          </activity>
+                          
+                      <activity android:name="mtk.kelompok.SoalActivity6"></activity>
+                    <activity android:name="mtk.kelompok.ResultActivity6"
+                          android:label="@string/title_activity_result" >
+                          </activity>
+    
+    </application>
+</manifest>

@@ -1,0 +1,96 @@
+<html>
+<head>
+<style type="text/css">
+	body{
+	  background-image:url("file:///android_asset/bg2.png");
+	  color:blue;
+	  background-position:50% 50%;
+	  background-repeat:repeat;
+	}
+</style>
+
+</head>
+<body> 
+<h2>Satuan Ukuran</h2> <align = "Justify">
+<h4> Satuan Panjang</h4>
+kilometer (km)<br>
+hektometer (hm)<br>
+dekameter (dam)<br>
+meter (m)<br>
+desimeter (dm) <br>
+centimeter (cm)<br>
+milimeter(mm)<br><br>
+setiap turun 1 tingkat dikali 10 <br>
+setiap naik 1 tingkat dikali 10<br>
+Untuk ukuran luas (persegi):<br>
+setiap turun 1 tingkat dikali 100<br>
+setiap naik 1 tingkat dibagi 100<br>
+Untuk ukuran isi (kubik) :<br>
+Setiap turun 1 tingkat dikali 1000<br>
+Setiap naik 1 tingkat dibagi 1000<br>
+<br><br>
+
+<h4> Satuan Berat</h4>
+kilogram (kg)<br>
+hektogram (hg)<br>
+dekagram (dag)<br>
+gram (g)<br>
+desigram (dg) <br>
+centigram (cg)<br>
+miligram(mg)<br><br>
+setiap turun 1 tingkat dikali 10 <br>
+setiap naik 1 tingkat dikali 10<br><br>
+1 ton = 1000 kg<br>
+1 ton = 10 kwintal<br>
+1 kwintal = 100 kg<br>
+1 kg = 10 ons<br>
+1 kg = 2 pon<br>
+1 pon = 5 ons<br>
+1 pon = 500 gram<br>
+1 ons = 100 gram<br><br>
+
+<h4> Satuan Liter</h4>
+kiloliter (kl)<br>
+hekliter (hl)<br>
+dekaliter (dal)<br>
+liter (l)<br>
+desiliter (dl) <br>
+centiliter (cl)<br>
+mililiter(ml)<br><br>
+setiap turun 1 tingkat dikali 10 <br>
+setiap naik 1 tingkat dikali 10<br>
+1 liter = 1 dm^3
+<br><br>
+
+<h4> Satuan Waktu</h4>
+1 minggu = 7 hari<br>
+1 bulan = 4 minggu<br>
+1 bulan = 30 hari<br>
+1 tahun = 365 hari<br>
+1 tahun = 52 minggu<br>
+1 tahun = 4 triwulan<br>
+1 tahun = 3 caturwulan<br>
+1 tahun = 2 semester<br>
+1 triwulan = 3 bulan<br>
+1 caturwulan = 4 bulan<br>
+1 semester = 6 bulan<br>
+1 windu = 8 tahun<br>
+1 dasawarsa = 10 tahun<br>
+1 abad = 100 tahun<br>
+1 milenium = 1000 tahun<br>
+1 jam = 60 menit<br>
+1 menit = 60 detik<br>
+1 jam = 3600 detik<br>
+1 hari = 24 jam<br><br>
+
+<h4> Satuan Ukuran Kuantitas</h4>
+1 lusin = 12 buah<br>
+1 gros = 12 lusin<br>
+1 gros = 144 buah<br>
+1 kodi = 20 lembar<br>
+1 rim = 500 lembar
+<br><br>
+
+</align> 
+</body>
+</html> 

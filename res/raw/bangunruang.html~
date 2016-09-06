@@ -1,0 +1,101 @@
+<html>
+<head>
+<style type="text/css">
+	body{
+	  background-image:url("file:///android_asset/bg2.png");
+	  color:blue;
+	  background-position:50% 50%;
+	  background-repeat:repeat;
+	}
+</style>
+
+</head>
+<body> 
+<h2>Bangun Ruang</h2> <align = "Justify">
+<h4> 1. Kubus </h4><br>
+Ciri-ciri Kubus : <br>
+1. Jumlah bidang sisi ada 6 buah yang berbentuk bujur sangkar<br>
+(ABCD, EFGH, ABFE, BCGF, CDHG, ADHE,) <br>
+2. Mempunyai 8 titik sudut (A, B, C, D, E, F, G, H) <br>
+3. Mempunyai 12 rusuk yang sama panjang <br>
+(AB, CD, EF, GH, AE, BF, CG, DH, AD, BC, EH, FG)<br>
+4. Semua sudutnya siku-siku<br>
+5. Mempunyai 4 diagonal ruang dan 12 diagonal bidang<br>
+(4 diagonal ruang = garis AG, BH, CE, DF<br>
+12 diagonal bidang = garis AC,BD,EG,FH,AH,DE,BG,CF,AF,BE,CH,DG)<br><br>
+Volume (V) = s x s x s = s3<br>
+Luas (L) = 6 x s x s = 6 s2<br>
+Keliling = 12 x s <br>
+Panjang diagonal bidang = s2 + s2 = 2s2 = s 2 <br>
+Panjang diagonal ruang = s2 + s2 + s2 = 3s2 = s 3<br><br>
+
+<h4> 2. Balok </h4><br>
+Ciri-ciri Balok :<br>
+1. Alasnya berbentuk segi empat<br>
+2. Terdiri dari 12 rusuk<br>
+3. Mempunyai 6 bidang sisi<br>
+4. Memiliki 8 titik sudut<br>
+5. Seluruh sudutnya siku-siku<br>
+6. Mempunyai 4 diagonal ruang dan 12 diagonal bidang<br>
+Volume = p x l x t<br>
+Luas = 2 x {(pxl) + (pxt) + (lxt) }<br>
+Keliling = 4 x (p+ l + t)<br>
+Diagonal Ruang = p2 + l 2 + t 2<br><br>
+
+<h4> 3. Prisma Tegak Siku-Siku</h4><br>
+Ciri-ciri :<br>
+1. Terdiri dari 6 titik sudut<br>
+2. Mempunyai 9 buah rusuk<br>
+3 Mempunyai 5 bidang sisi<br>
+
+Volume = Luas alas x tinggi<br>
+Luas alas = 1/2 x alas x tinggi<br>
+Luas = 2 x 1/2(a x b) + (a x t) + (b x t) + (p x t)<br>
+<br>
+
+<h4> 4. Tabung/Silinder</h4><br>
+Ciri-ciri:<br>
+1. Mempunyai 2 rusuk<br>
+2. Alas dan atapnya berupa lingkaran<br>
+3. Mempunyai 3 bidang sisi<br>
+( 2 bidang sisi lingkaran atas dan bawah, 1 bidang selimut)<br>
+Volume tabung = luas alas x tinggi<br>
+Luas alas = luas lingkaran alas tabung = p x r 2 --> p = 22/7 = 3,14<br>
+Volume tabung = p x r 2 x t<br>
+Luas Selimut= 2 p x r x t<br>
+Luas Permukaan Tabung = 2 x luas alas + Luas selimut tabung<br>
+= 2 x p x r 2 + 2 p x r x t<br>
+= 2 p r ( r + t )<br><br>
+
+<h4> 5. Kerucut</h4><br>
+Ciri-ciri :<br>
+1. Mempunyai 2 bidang sisi<br>
+(1 bidang sisi lingkaran dan 1 bidang sisi selimut)<br>
+2. Mempunyai 2 rusuk dan 1 titik sudut<br>
+Luas selimut = p x r x s<br>
+Luas alas = p x r 2<br>
+Luas Permukaan kerucut = Luas alas + Luas Selimut<br>
+= p x r 2 + p x r x s<br>
+= p r (r + s)<br>
+Volume = 1/3 x Luas alas x tinggi<br>
+       = 1/3 x p x r 2 x t<br><br>
+	   
+<h4> 6. Limas </h4><br>
+Ciri-ciri :<br>
+1. Alasnya berbentuk segitiga<br>
+2. Mempunyai 4 bidang sisi (alas dan 3 sisi tegak)<br>
+3. Mempunyai 6 rusuk<br>
+4. Mempunyai 4 titik sudut<br>
+Luas alas = 1/2 alas x tinggi<br>
+Volume = 1/3 Luas alas x tinggi<br>
+Luas = Luas alas + (3 x luas tegak segitiga)<br><br>
+
+<h4> 7. Bola</h4><br>
+Ciri-ciri :<br>
+1. Hanya mempunyai 1 bidang sisi<br>
+2. Tidak mempunyai sudut dan tidak mempunyai rusuk<br>
+Volume = 4/3 *p *r^3<br>
+Luas = 4 * p * r^2<br>
+</align> 
+</body>
+</html> 

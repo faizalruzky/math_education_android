@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg2"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/kelas4"
+        android:layout_width="70dp"
+        android:layout_height="61dp"
+        android:layout_x="57dp"
+        android:layout_y="204dp"
+        android:background="@drawable/selector4" />
+
+    <Button
+        android:id="@+id/kelas5"
+        android:layout_width="59dp"
+        android:layout_height="57dp"
+        android:layout_x="142dp"
+        android:layout_y="202dp"
+        android:background="@drawable/selector5" />
+
+    <Button
+        android:id="@+id/kelas6"
+        android:layout_width="64dp"
+        android:layout_height="62dp"
+        android:layout_x="220dp"
+        android:layout_y="202dp"
+        android:background="@drawable/selector6" />
+
+    <Button
+        android:id="@+id/kelas3"
+        android:layout_width="64dp"
+        android:layout_height="66dp"
+        android:layout_x="221dp"
+        android:layout_y="92dp"
+        android:background="@drawable/selector3" />
+
+    <Button
+        android:id="@+id/kelas1"
+        android:layout_width="54dp"
+        android:layout_height="68dp"
+        android:layout_x="65dp"
+        android:layout_y="88dp"
+        android:background="@drawable/selector1" />
+
+    <Button
+        android:id="@+id/kelas2"
+        android:layout_width="58dp"
+        android:layout_height="64dp"
+        android:layout_x="142dp"
+        android:layout_y="93dp"
+        android:background="@drawable/selector2" />
+
+</AbsoluteLayout>

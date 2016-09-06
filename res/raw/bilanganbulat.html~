@@ -1,0 +1,61 @@
+<html>
+<head>
+<style type="text/css">
+	body{
+	  background-image:url("file:///android_asset/bg2.png");
+	  color:blue;
+	  background-position:50% 50%;
+	  background-repeat:repeat;
+	}
+</style>
+</head>
+<body>
+
+ <h2>BAB 1</h2> <align = "Justify">
+ <h2>Materi Bilangan Bulat</h2><br>
+Materi Bilangan Bulat ini merupakan lanjutan dari materi Bilangan Bulat yang diberikan pada kelas 4 Sekolah Dasar. <br>
+Dalam materi lanjutan ini sebenarnya tidak banyak pokok pembahasan yang akan dibahas.<br>
+Dalam materi lanjutan bilangan bulat ini ada beberapa hal yang akan dibahas yaitu <br>
+tentang sifat-sifat operasi hitung, <br>
+sifat komutatif pada penjumlahan, sifat komutatif pada perkalian, sifat asosiatif pada perkalian, sifat asosiatif pada penjumlahan, <br>
+sifat distributif pada perkalian terhadap penjumlahan, sifat distributif perkalian pada pengurangan, <br>
+pembulatan bilangan dan menaksir hasil operasi hitung dua bilangan.<br>
+Materi tersebut diatas selengkapnya dapat anda lihat pada gambar dibawah ini :<br><br>
+
+<h4>Sifat-sifat Operasi Hitung</h4><br>
+sifat-sifat pada operasi hitung bilangan :<br>
+<h4>1. Sifat Komulatif (Pertukaran)</h2><br>
+a). Sifat Komutatif pada Penjumlahan<br>
+b). Sifat Komutatif pada perkalian<br><br>
+<h4>2. Sifat Asosiatif(Pengelompokkan)</h2><br>
+a). Sifat Asosiatif pada Penjumlahan<br>
+b). Sifat Asosiatif pada Perkalian<br><br>
+<h4>3. Sifat Distributif</h2><br>
+a). Sifat Distributif Perkalian terhadap Penjumlahan<br>
+b). Sifat Distributif Perkaliian pada Pengurangan<br><br>
+<h4>.Membulatkan Bilangan<br><br>
+Pembulatan pada bilangan anatara lain:<br><br>
+1. Pembulatan ke Satuan Terdekat<br>
+2. Pembulatan ke Puluhan Terdekat<br>
+3. Pembulatan ke Ratusan Terdekat<br><br>
+<h4>.Menaksirkan Hasil Operasi Hitung Dua Bilangan</h2><br>
+menaksirkan artinya memperkirakan suatu hasil yang mendekati hasil sebenarnya.<br>
+untuk menaksir hasil operasi hitung dua bilangan, bilangan-bilangan yang dioperasikan<br>
+harus dibulatkan terlebih dahulu. Pembulatan bisa dilakukan ke satuan, puluhan, ratusan terdekat<br>
+contoh:<br>
+taksiran dari 68 x 43 adalah...<br>
+penyelesaian :<br>
+68 dibulatkan menjadi 70 dan 43 dibulatkan menjadi 40<br>
+taksiran dari 68 x 43 = 70 x 40<br>
+= 2.800<br>
+jadi, taksiran dari 68 x 43 adalah 2.800<br><br>
+taksiran dari 151 + 347 adalah ...<br>
+penyelesaian: <br>
+151 dibulatkan menjadi 150 dan 347 dibulatkan menjadi 350.<br>
+taksiran dari 151+347 = 150+350 = 500 <br>
+jadi, taksiran dari 151+347 adalah 500.<br>
+
+</align> 
+</div>
+</body>
+</html> 
